@@ -1,0 +1,19 @@
+{ 
+  "工作稿子": [13,"useful","diamond_pickaxe"],
+  "工作镐子": [13,"useful","diamond_pickaxe"],
+  "工作铲子": [14,"useful","diamond_shovel"],
+  "珍珠": [15,"useful","ender_pearl",16],
+  "末影珍珠": [15,"useful","ender_pearl",16],
+  "金胡萝卜": [16,"useful","golden_carrot"],
+  "金萝卜": [16,"useful","golden_carrot"],
+  "熟猪排": [17,"useful","cooked_porkchop"],
+  "猪排": [17,"useful","cooked_porkchop"],
+  "图腾": [18,"useful","totem_of_undying",1],
+  "不死图腾": [18,"useful","totem_of_undying",1],
+  "金苹果": [19,"useful","golden_apple"],
+  "烟花火箭": [23,"useful","firework_rocket"],
+  "烟花": [23,"useful","firework_rocket"],
+  "3速烟花": [23,"useful","firework_rocket"],
+  "2速烟花": [22,"useful","firework_rocket"],
+  "1速烟花": [21,"useful","firework_rocket"]
+}
